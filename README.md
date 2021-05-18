@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi I'm Jason 👋
+
+
+•	I am a senior analyst primarily skilled with SQL and Tableau.  
+•	I want to use GitHub to improve and demonstrate skill with Python, data visualization, and insight gathering.  
+•	My hobbies include hiking, biking, cooking, and sports analytics.
 
 <!--
-**jasonheinrichs/jasonheinrichs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
