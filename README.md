@@ -2,7 +2,7 @@
 
 
 •	I am a senior analyst primarily skilled with SQL and Tableau.  
-•	I want to use GitHub to improve and demonstrate skill with Python, data visualization, and insight gathering.  
+•	I want to use GitHub to demonstrate skill with Python, data visualization, and insight gathering.  
 •	My hobbies include hiking, biking, cooking, and sports analytics.
 
 <!--
