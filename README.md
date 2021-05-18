@@ -3,7 +3,7 @@
 
 •	I am a senior analyst primarily skilled with SQL and Tableau.  
 •	I want to use GitHub to demonstrate skill with Python, data visualization, and insight gathering.  
-•	My hobbies include hiking, biking, cooking, and sports analytics.
+•	My hobbies include hiking, biking :bicyclist:, cooking, and sports analytics :football: :basketball: :tennis: :chart_with_upwards_trend:.
 
 <!--
 - 🔭 I’m currently working on ...
