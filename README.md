@@ -1,8 +1,8 @@
 ### Hi I'm Jason 👋
 
 
-•	I am a senior analyst primarily skilled with SQL and Tableau.  
-•	I want to use GitHub to demonstrate skill with Python, data visualization, and insight gathering.  
+•	I am an analyst primarily skilled with SQL and Tableau.  
+•	I plan to use GitHub to demonstrate skills with Python, data visualization, and insight gathering.  
 •	My hobbies include hiking, biking :bicyclist:, cooking, and sports analytics :football: :basketball: :tennis: :chart_with_upwards_trend:.
 
 <!--
